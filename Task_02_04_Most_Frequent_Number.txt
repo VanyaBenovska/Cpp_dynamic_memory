@@ -1,0 +1,17 @@
+Problem 02_04_Most_Frequent_Number
+Write a program that finds the most frequent number in a given sequence of numbers. 
+•	Numbers will be in the range [0…9].
+•	In case of multiple numbers with the same maximal frequency, print all of them, ordered from smallest to largest, 
+separated by spaces
+
+13
+4 1 1 4 2 3 4 4 1 2 4 9 3
+//4
+
+8
+2 2 2 2 1 2 2 2
+//2
+
+11
+7 7 7 0 2 2 2 0 9 9 9
+//2 7 9
