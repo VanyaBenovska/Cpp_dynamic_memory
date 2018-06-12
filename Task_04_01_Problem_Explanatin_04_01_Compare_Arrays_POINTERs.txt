@@ -1,0 +1,20 @@
+
+Problem 04_01 – Compare Arrays
+Write a program that reads two integer arrays from the console and compares them element by element. For better code reusability, you could do the comparison in a function, which returns true if they are equal and false if not.
+Each array will be defined by a single line on the console, containing the numbers in the array, separated by spaces.
+Print equal if the arrays match, and not equal if the arrays don’t match.
+
+Examples
+
+Input	
+1 2 3
+1 2 3
+Output:	equal
+
+1 2 3
+2 1 3
+Output:	not equal
+
+10 1
+42 13 69
+Output:	not equal
